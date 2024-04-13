@@ -1,0 +1,14 @@
+Steps to run the GUI:
+1. Paste both the python files in the same directory and run the following command in terminal by going to the same directory:
+
+streamlit run streamlit_test.py
+
+Requirements:
+pyformlang
+graphviz
+pygraphviz
+numpy
+pandas
+PIL
+streamlit
+time
